@@ -1,6 +1,6 @@
-### Leaders
-Chief Officer: Larry Nissen
-Secretary: Deyanira Ledesma
-Treasure:  Matthew Viebag
-* [Joseph Konieczka](mailto:joseph.konieczka@owasp.org) - Mentor
-Instructor: Carlos Townsend
+### San Jacinto College - Student Chapter Leaders
+* [Larry Nissen](mailto:larry.nissen@owasp.org)
+* [Deyanira Ledesma](mailto:deyanira.ledesma@owasp.org)
+* [Matthew Viebag](mailto:matthew.viebag@owasp.org)
+* [Joseph Konieczka](mailto:joseph.konieczka@owasp.org)
+* [Carlos Townsend](mailto:carlos.townsend@owasp.org)
