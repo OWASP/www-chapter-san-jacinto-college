@@ -9,7 +9,7 @@ altfooter: true
 region: North America
 meetup-group: OWASP-San-Jacinto-College-Student-Chapter
 country: USA
-postal-code: 77001
+postal-code: 77089
 
 ---
 ## OWASP San Jacinto College
