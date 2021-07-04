@@ -35,9 +35,6 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 We Meet the second thursday of month at 8pm
 
-## Past Events
-
-### OWASP San Jacinto College Upcoming Meeting
 
 {% include chapter_events.html group=page.meetup-group %}
 
