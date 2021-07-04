@@ -33,7 +33,7 @@ We schedule our meetings on the [OWASP San Jacinto College Meetup Group](https:/
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
-We Meet the second thursday of month at 8pm
+We meet the second Thursday of each month at 8pm.
 
 
 {% include chapter_events.html group=page.meetup-group %}
