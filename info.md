@@ -5,4 +5,4 @@ San Jacinto College South Campus is located at 13735 Beamer Rd, Houston, TX 7708
 
 * [Meetup](https://www.meetup.com/OWASP-San-Jacinto-College-Student-Chapter/)
 * [Facebook](https://www.facebook.com/OWASPSanJac/)
-* [Juiceshop](https://sanjac.herokuapp.com/#/)
+* [Juiceshop](https://sanjacnew.herokuapp.com/#/)
