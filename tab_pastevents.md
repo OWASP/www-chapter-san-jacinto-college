@@ -11,12 +11,17 @@ tags: san-jacinto
 
 ## 2021
 
+### OWASP San Jacinto College July Meeting
+
+- **When:** July 8th 2021 7 P.M. - 9 P.M.
+- **Where:** Zoom
+- **Description:** OWASP Juice Shop Intro.
+
 ### OWASP San Jacinto College June Meeting
 
 - **When:** June 10th 2021 8 P.M. - 9 P.M.
 - **Where:** Zoom
 - **Description:** Introduced Leader. Showed new members what OWASP chapter was about. 
-- **Join Us on Discord**  https://discord.gg/UY5aVwuJXr
 
 ## 2020
 
