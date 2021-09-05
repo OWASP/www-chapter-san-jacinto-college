@@ -16,11 +16,11 @@ postal-code: 77089
 
 ## Welcome
 
-Welcome to the San Jacinto College chapter homepage! We hold our regular meetings on the second Thursday of each month. Meetings are held at Online
+Welcome to the San Jacinto College chapter homepage! We hold our regular meetings each month. Meetings are held at Online.
 
 ## Announcements
 
-### Online Meetings
+### Online Discord
 You can see us on Discord 
 
 https://discord.gg/UY5aVwuJXr
