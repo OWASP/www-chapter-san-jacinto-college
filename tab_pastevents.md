@@ -10,7 +10,12 @@ tags: san-jacinto
 ---
 
 ## 2021
+### OWASP San Jacinto College July Meeting
 
+- **When:** Aug 12th 2021 7 P.M. - 9 P.M.
+- **Where:** Zoom
+- **Description:** Introduction to PowerShell Core - Basic File, Directory, Output, Export, and Date cmdlets useful for working with plain text log files.
+- 
 ### OWASP San Jacinto College July Meeting
 
 - **When:** July 8th 2021 7 P.M. - 9 P.M.
