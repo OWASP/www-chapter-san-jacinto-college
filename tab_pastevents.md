@@ -10,7 +10,7 @@ tags: san-jacinto
 ---
 
 ## 2021
-### OWASP San Jacinto College July Meeting
+### OWASP San Jacinto College August Meeting
 
 - **When:** Aug 12th 2021 7 P.M. - 9 P.M.
 - **Where:** Zoom
