@@ -10,6 +10,13 @@ tags: san-jacinto
 ---
 
 ## 2021
+
+### OWASP San Jacinto College October Meeting
+
+- **When:** Friday, October 22, 2021 7:00 PM to 8:30 PM CDT
+- **Where:** Zoom
+- **Description:** LASCON 2021 Discussion
+
 ### OWASP San Jacinto College September Meeting
 
 - **When:** Friday, September 17, 2021 7:00 PM to 8:30 PM CDT
