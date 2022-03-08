@@ -24,6 +24,9 @@ For information about [San Jacinto College’s Computer Information Technology (
 
 We schedule our meetings on the [OWASP San Jacinto College Meetup Group](https://www.meetup.com/OWASP-San-Jacinto-College-Student-Chapter/). Please RSVP to events there!
 
+[OWASP San Jacinto College - Student Chapter March 17, 2022 Meeting] (https://www.meetup.com/OWASP-San-Jacinto-College-Student-Chapter/events/284486311/)
+OWASP Top 10 2021 presented by Jim Manico
+
 {% include chapter_events.html group=page.meetup-group %}
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
