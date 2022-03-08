@@ -18,7 +18,7 @@ postal-code: 77089
 
 Welcome to the San Jacinto College chapter homepage! We hold our regular meetings each month. Meetings are currently held online since students are distributed across multiple campuses in the greater Houston, TX area.
 
-For information about San Jacinto College’s Computer Information Technology (CIT) programs, please visit https://publications.sanjac.edu/areas-study/science-technology-engineering-math/
+For information about [San Jacinto College’s Computer Information Technology (CIT) programs](https://publications.sanjac.edu/areas-study/science-technology-engineering-math/)
 
 ## Upcoming Meetings
 
