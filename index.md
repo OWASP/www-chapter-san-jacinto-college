@@ -16,14 +16,9 @@ postal-code: 77089
 
 ## Welcome
 
-Welcome to the San Jacinto College chapter homepage! We hold our regular meetings each month. Meetings are held at Online.
+Welcome to the San Jacinto College chapter homepage! We hold our regular meetings each month. Meetings are currently held online since students are distributed across multiple campuses in the greater Houston, TX area.
 
-## Announcements
-
-### Online Discord
-You can see us on Discord 
-
-https://discord.gg/UY5aVwuJXr
+For information about San Jacinto College’s Computer Information Technology (CIT) programs, please visit https://publications.sanjac.edu/areas-study/science-technology-engineering-math/
 
 ## Upcoming Meetings
 
@@ -32,8 +27,6 @@ We schedule our meetings on the [OWASP San Jacinto College Meetup Group](https:/
 {% include chapter_events.html group=page.meetup-group %}
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
-
-We meet the second Thursday of each month at 7pm.
 
 
 {% include chapter_events.html group=page.meetup-group %}
