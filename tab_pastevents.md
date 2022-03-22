@@ -9,6 +9,16 @@ tags: san-jacinto
 
 ---
 
+
+## 2022
+
+### OWASP San Jacinto College March Meeting
+
+- **When:** Thursday March 17, 2022
+- **Where:** Zoom
+- **Description:** OWASP Top 10 2021 presentation from Jim Manico
+
+
 ## 2021
 
 ### OWASP San Jacinto College October Meeting
